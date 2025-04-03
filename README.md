@@ -26,8 +26,8 @@ I'm a passionate web developer specializing in front-end development. This portf
 3. Customize the content in `index.html` and `styles.css` as needed.
 
 ## Links
-- [Live Demo](#) (replace with actual URL if hosted)
-- [GitHub Repository](#) (replace with actual repo URL)
+- [Live Demo](#) https://veetheegod.github.io/portfolio
+- [GitHub Repository](#) https://veetheegod.github.io/
 
 ## Contact
 Feel free to reach out via [email](mailto:mififvelile@gamil.com) or connect with me on [LinkedIn](https://linkedin.com/in/velile-mifi).
