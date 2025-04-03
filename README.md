@@ -32,4 +32,4 @@ I'm a passionate web developer specializing in front-end development. This portf
 ## Contact
 Feel free to reach out via [email](mailto:mififvelile@gamil.com) or connect with me on [LinkedIn](https://linkedin.com/in/velile-mifi).
 
-© 2025 Your Name. All rights reserved.
+© 2025 Velile Mifi. All rights reserved.
