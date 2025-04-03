@@ -26,7 +26,7 @@ I'm a passionate web developer specializing in front-end development. This portf
 3. Customize the content in `index.html` and `styles.css` as needed.
 
 ## Links
-- [Live Demo](#) https://veetheegod.github.io/portfolio
+- [Live Demo](#) https://veetheegod.github.io/
 - [GitHub Repository](#) https://veetheegod.github.io/
 
 ## Contact
