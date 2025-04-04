@@ -21,13 +21,13 @@ I'm a passionate web developer specializing in front-end development. This portf
 - Font Awesome for icons
 
 ## Setup
-1. Clone this repository (if hosted on GitHub).
+1. Clone this repository.
 2. Open `index.html` in a web browser to view the portfolio.
 3. Customize the content in `index.html` and `styles.css` as needed.
 
 ## Links
 - [Live Demo](#) https://veetheegod.github.io/
-- [GitHub Repository](#) https://veetheegod.github.io/
+- [GitHub Repository](#) https://github.com/VeeTheeGod/VeeTheeGod.github.io
 
 ## Contact
 Feel free to reach out via [email](mailto:mififvelile@gamil.com) or connect with me on [LinkedIn](https://linkedin.com/in/velile-mifi).
